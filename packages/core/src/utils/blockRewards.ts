@@ -1,6 +1,6 @@
 import BigNumber from 'bignumber.js';
 
-const MOJO_PER_CHIA = new BigNumber('1000000000000');
+const MOJO_PER_CHIA = new BigNumber(500000000000);
 const BLOCKS_PER_YEAR = 1681920;
 const POOL_REWARD = '0.875'; // 7 / 8
 const FARMER_REWARD = '0.125'; // 1 /8
